@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there
+
+- 🔭 I’m currently working on this portfolio
+- 🌱 I’m currently learning more about AI
+- ⚡ Fun fact: I just got into longboarding and I'm loving it!
 
 <!--
-**reigningforest/reigningforest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**to do list:
+- add highlights section
+- blurb on background/interests
+- finish updating other projects
+- add in google image scraper
+- add in workplace + job position
+- 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
