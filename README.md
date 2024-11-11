@@ -4,4 +4,4 @@
 - Fun fact: I just got into longboarding and I'm loving it!
 
 - Where I was at: Data Coordinator in the Department of Radiation Oncology and AI in Medicine (AIM) lab at Brigham and Women's Hospital and Dana Farber Cancer Institute
-- What I did: I assemble data for various research projects, and I was learning how to apply ML models for health quantification.
+- What I did: I assembled data for various research projects, and I was learning how to apply ML models for health quantification.
