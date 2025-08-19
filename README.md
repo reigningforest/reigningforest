@@ -1,3 +1,3 @@
 - Where I am at: Northwestern's Masters of Science in Machine Learning and Data Science (MLDS) Program
 - What I do: I am learning all about Machine Learning Models and Data Analysis and currently applying these learnings in an Industry Practicum!
-- Interests: Machine Learning, specifically LLMs and NLP for electronic health records (EHR).
+- Interests: LLMs and NLP for electronic health records (EHR) and Computer Vision.
